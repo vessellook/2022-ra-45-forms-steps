@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2022-ra-45-forms-steps/static/css/main.76cdad36.css",
+    "main.js": "/2022-ra-45-forms-steps/static/js/main.a64aad36.js",
+    "static/js/787.40ab0fa1.chunk.js": "/2022-ra-45-forms-steps/static/js/787.40ab0fa1.chunk.js",
+    "index.html": "/2022-ra-45-forms-steps/index.html",
+    "main.76cdad36.css.map": "/2022-ra-45-forms-steps/static/css/main.76cdad36.css.map",
+    "main.a64aad36.js.map": "/2022-ra-45-forms-steps/static/js/main.a64aad36.js.map",
+    "787.40ab0fa1.chunk.js.map": "/2022-ra-45-forms-steps/static/js/787.40ab0fa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cdad36.css",
+    "static/js/main.a64aad36.js"
+  ]
+}
