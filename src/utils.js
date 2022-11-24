@@ -14,13 +14,13 @@ export const dateCmp = (lhs, rhs) => {
 };
 
 export const insertAt = (array, index, value) => {
-  return array.slice(0, index).concat([value]).concat(array.slice(index));
+  return [...array.slice(0, index), value, ...array.slice(index)];
 };
 
 export const removeAt = (array, index) => {
-  return array.slice(0, index).concat(array.slice(index + 1));
+  return [...array.slice(0, index), ...array.slice(index + 1)];
 }
 
 export const replaceAt = (array, index, value) => {
-  return array.slice(0, index).concat([value]).concat(array.slice(index + 1));
+  return [...array.slice(0, index), value, ...array.slice(index + 1)];
 }
